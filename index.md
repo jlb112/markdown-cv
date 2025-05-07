@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: James Breakey Test
+title: James Breakey
 ---
-# Isaac Newton
+# JAMES BREAKEY
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
